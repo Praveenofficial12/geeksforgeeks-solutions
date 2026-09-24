@@ -1,6 +1,6 @@
 # GeeksforGeeks Solutions
 
-A collection of my **GeeksforGeeks problem-solving solutions** created while learning Data Structures, Algorithms, and programming fundamentals.
+A collection of my **GeeksforGeeks problem-solving solutions** created while learning Data Structures, Algorithms, and programming fundamentals. 
 
 ## About
 
